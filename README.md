@@ -1,6 +1,35 @@
 # LSRE-ReleasePlanningProject
 Requirements for a Course Management System. Please check the issue tracker.
 
+# TODO (week 48)
+## ** NOT_DONE ** Assignment Reflection
+So far, none of you have started relating what we do here with research literature and/or your own experiences. Start writing your running log of the release planning assignment, add brief summaries of relevant papers and your reflections on how they apply to the practical work we do here.
+
+## ** NOT_COMPLETED ** Continue working with requirements quality, dependencies, and abstraction level
+Fix the existing requirements. Add the missing requirements. Link the requirments. Break down and work up the requirements (with links) so that you cover all levels from goals to code level.
+
+## ** NOT_COMPLETED ** Continue inventing more features and issues.
+There are some embryos to new features in your comments already. Take the full step and create new issues for them.
+
+## ** NEW ** Assign Responsibles
+Assign yourself as responsible to the requirements that you have been working the most with. When you create new requirements you should also assign yourself as responsible for them -- unless you are obviously creating sub-requirements where someone else is owner of the main requirement.
+
+## ** NEW ** Classify the Requirements
+Use the Labels and classify the requirements. Are they feature requests, bug fixes, clarifications of other requirements, duplicates to other requirements (please make sure you understand the difference between a clarification and a duplicate), or something else. Create new labels if you need to.
+
+## ** NEW ** Add Size and Value Estimates
+Can we do this at all on GitHub? Discuss this on in the course Discussion Forum on It's Learning.
+
+## Remaining issues
+Things you should have done, but which I have not seen evidence of yet. Discuss these on It's Learning.
+
+- Requirements Prioritisation. Which methods exist? What are their pros and cons? Which can be used in this assignment? Why? How?
+- Requirements Prioritisation. Which criteria should we prioritise against?
+- Roadmapping. How should we do it? Discuss different methods and their pros and cons. Decide on which to use in this course, and why.
+- Roadmapping. Actually create a roadmap for the product. Set up milestones, and assign issues to the milestones.
+- Research Literature: What research literature have you found that can help you with this release planning assignment? Discuss on It's Learning.
+- Finding Features. What methods can we use to find more features? Discuss on It's Learning. Describe in further detail (with references to scientific works) in your reflective log.
+
 # TODO (week 46)
 
 ## Requirements Quality
