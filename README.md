@@ -1,6 +1,36 @@
 # LSRE-ReleasePlanningProject
 Requirements for a Course Management System. Please check the issue tracker.
 
+# TODO (Week 50)
+## Assignment Reflection
+
+## Assign issues to users
+Take ownership of an area and assign all issues related to that area to yourself.
+
+## Prioritisation
+
+- Decide on Prioritisation Method
+- Decide on which Perspectives to prioritise against
+- Conduct the prioritisation
+
+## Assign issues to milestones (according to the prioritisation)
+
+## Assign labels to issues
+... and review the current labels. Setting the "Clarification" label on all requirements is meaningless. Classify them instead as features, bugs, critical bugs, minor improvements, etc.
+
+## Continue working with requirements quality, dependencies, and abstraction level
+
+## Remaining issues
+
+- Requirements Prioritisation. Which methods exist? What are their pros and cons? Which can be used in this assignment? Why? How?
+- Requirements Prioritisation. Which criteria should we prioritise against?
+- Roadmapping. How should we do it? Discuss different methods and their pros and cons. Decide on which to use in this course, and why.
+- Roadmapping. Actually create a roadmap for the product. Set up milestones, and assign issues to the milestones.
+- Research Literature: What research literature have you found that can help you with this release planning assignment? Discuss on It's Learning.
+- Finding Features. What methods can we use to find more features? Discuss on It's Learning. Describe in further detail (with references to scientific works) in your reflective log.
+- Finding Features. Actually execute the methods you decide upon and create issues for the features thusly acquired.
+- Dependencies between requirements. How do dependencies between requirements affect the prioritisation? What can we do about that?
+
 # TODO (week 48)
 ## **NOT_DONE** Assignment Reflection
 So far, none of you have started relating what we do here with research literature and/or your own experiences. Start writing your running log of the release planning assignment, add brief summaries of relevant papers and your reflections on how they apply to the practical work we do here.
