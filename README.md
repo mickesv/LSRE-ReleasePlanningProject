@@ -1,6 +1,7 @@
 # LSRE-ReleasePlanningProject
 Requirements for a Course Management System. Please check the issue tracker.
 
+<!--
 # TODO (Week 50)
 ## Assignment Reflection
 
@@ -61,8 +62,9 @@ Things you should have done, but which I have not seen evidence of yet. Discuss 
 - Finding Features. What methods can we use to find more features? Discuss on It's Learning. Describe in further detail (with references to scientific works) in your reflective log.
 - Finding Features. Actually execute the methods you decide upon and create issues for the features thusly acquired.
 - Dependencies between requirements. How do dependencies between requirements affect the prioritisation? What can we do about that?
+-->
 
-# TODO (week 46)
+# TODO (week 44-45)
 
 ## Requirements Quality
 As you notice, the quality of these requirements vary quite a bit. Your first job is to -- by adding comments to the issues -- clarify them so that they can be understood.
