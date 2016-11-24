@@ -8,6 +8,7 @@ Requirements for a Course Management System. Please check the issue tracker.
 - Decide on an area of responsibility for each of you (use the course discussion forum for this).
 - Assign responsibles for each issue according to what you have decided.
 - Link the requirements to each other, along with comments on *how* they are linked.
+- I notice a lot of duplicate requirements. Find them, link them, and close the newest.
 - Tag Requirements (assign labels) so we know whether they are bugfixes, feature requests, or whether we should not be working with them.
 
 ## Next Step
