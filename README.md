@@ -1,6 +1,21 @@
 # LSRE-ReleasePlanningProject
 Requirements for a Course Management System. Please check the issue tracker.
 
+# Week 47-48
+
+## TODO
+
+- Decide on an area of responsibility for each of you (use the course discussion forum for this).
+- Assign responsibles for each issue according to what you have decided.
+- Link the requirements to each other, along with comments on *how* they are linked.
+- Tag Requirements (assign labels) so we know whether they are bugfixes, feature requests, or whether we should not be working with them.
+
+## Next Step
+By the second half of week 48, we should have discussed on the course discussion forum what prioritisation method to use, how to apply it in this particular case, and how to do release planning based on this.
+
+## Don't forget:
+Your reflective logs on this assignment are still empty. How does what you do here connect to research literature?
+
 <!--
 # TODO (Week 50)
 ## Assignment Reflection
